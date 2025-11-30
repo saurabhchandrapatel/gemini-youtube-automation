@@ -3,140 +3,140 @@
     {
       "chapter": 1,
       "part": 1,
-      "title": "Understanding AI:  From Magic to Math",
-      "status": "complete",
-      "youtube_id": "EN-Q73PXuYk"
+      "title": "Introduction to LangChain: Why We Need LLM Frameworks",
+      "status": "pending",
+      "youtube_id": "LC-Intro-001"
     },
     {
       "chapter": 1,
       "part": 2,
-      "title": "Introduction to Machine Learning:  Teaching Computers to Learn",
-      "status": "complete",
-      "youtube_id": "mSk-7yGYZ1A"
+      "title": "LangChain Architecture: Models, Prompts, Memory, Tools",
+      "status": "pending",
+      "youtube_id": "LC-Intro-002"
     },
     {
       "chapter": 2,
       "part": 1,
-      "title": "Neural Networks: The Brain-Inspired Algorithm",
-      "status": "complete",
-      "youtube_id": "sSCUZqTu6og"
+      "title": "Prompt Templates: Structuring Inputs for Better LLM Results",
+      "status": "pending",
+      "youtube_id": "LC-Prompt-101"
     },
     {
       "chapter": 2,
       "part": 2,
-      "title": "Deep Learning Fundamentals: Stacking Neural Networks for Power",
-      "status": "complete",
-      "youtube_id": "NrNbqgY8OQY"
+      "title": "Chains 101: Sequential, Router, and Custom Chains",
+      "status": "pending",
+      "youtube_id": "LC-Prompt-102"
     },
     {
       "chapter": 3,
       "part": 1,
-      "title": "Generative AI: Creating New Content with AI",
-      "status": "complete",
-      "youtube_id": "QGPgcd_F8h8"
+      "title": "Retrieval Basics: Understanding RAG in LangChain",
+      "status": "pending",
+      "youtube_id": "LC-RAG-101"
     },
     {
       "chapter": 3,
       "part": 2,
-      "title": "Understanding Transformers: The Architecture Behind LLMs",
-      "status": "complete",
-      "youtube_id": "aS5Eh9xYBMg"
+      "title": "Vectorstores: FAISS, Chroma, Pinecone, Weaviate",
+      "status": "pending",
+      "youtube_id": "LC-RAG-102"
     },
     {
       "chapter": 4,
       "part": 1,
-      "title": "Building Your First AI Model: A Practical Example",
-      "status": "complete",
-      "youtube_id": "UEihVy583vU"
+      "title": "Document Loaders & Text Splitters: Preparing Data for RAG",
+      "status": "pending",
+      "youtube_id": "LC-Docs-101"
     },
     {
       "chapter": 4,
       "part": 2,
-      "title": "Model Training and Evaluation: Getting the Best Performance",
-      "status": "complete",
-      "youtube_id": "7QUluL6TwRE"
+      "title": "Building a pending RAG Pipeline Using LangChain",
+      "status": "pending",
+      "youtube_id": "LC-Docs-102"
     },
     {
       "chapter": 5,
       "part": 1,
-      "title": "Working with Datasets: Data Cleaning and Preprocessing",
-      "status": "complete",
-      "youtube_id": "D9smqFbzTaI"
+      "title": "LangChain Agents: The Core Concept Explained",
+      "status": "pending",
+      "youtube_id": "LC-Agent-101"
     },
     {
       "chapter": 5,
       "part": 2,
-      "title": "Feature Engineering: Enhancing Your Model's Capabilities",
-      "status": "complete",
-      "youtube_id": "jDcYPCdQnUo"
+      "title": "Tools & Toolkits: Giving LLMs Real-World Capabilities",
+      "status": "pending",
+      "youtube_id": "LC-Agent-102"
     },
     {
       "chapter": 6,
       "part": 1,
-      "title": "Agent-Based AI: Building Autonomous Systems",
-      "status": "complete",
-      "youtube_id": "A9bJTIG9UFU"
+      "title": "Advanced Agents: Multi-Step Reasoning, Planning & Orchestration",
+      "status": "pending",
+      "youtube_id": "LC-Agent-201"
     },
     {
       "chapter": 6,
       "part": 2,
-      "title": "Reinforcement Learning in Practice: Training Agents to Solve Problems",
-      "status": "complete",
-      "youtube_id": "qeJQF0vPnYI"
+      "title": "Building Custom Tools & Integrating APIs",
+      "status": "pending",
+      "youtube_id": "LC-Agent-202"
     },
     {
       "chapter": 7,
       "part": 1,
-      "title": "Advanced Multi-Agent Systems: Cooperation and Competition",
-      "status": "complete",
-      "youtube_id": "ihLjL3f6JbI"
+      "title": "Memory Systems: Conversation, Buffer, Entity, Summary Memory",
+      "status": "pending",
+      "youtube_id": null
     },
     {
       "chapter": 7,
       "part": 2,
-      "title": "Decentralized AI: Building Robust and Scalable Systems",
+      "title": "Long-Term Memory with Vectorstores",
       "status": "pending",
       "youtube_id": null
     },
     {
       "chapter": 8,
       "part": 1,
-      "title": "AI Tool Use: Empowering Your Agents with External Tools",
+      "title": "LangGraph: State Machines for Complex Agent Workflows",
       "status": "pending",
       "youtube_id": null
     },
     {
       "chapter": 8,
       "part": 2,
-      "title": "LangChain Deep Dive: Advanced Techniques and Applications",
+      "title": "Multi-Agent Systems with LangGraph: Collaboration & Competition",
       "status": "pending",
       "youtube_id": null
     },
     {
       "chapter": 9,
       "part": 1,
-      "title": "Understanding AI Architectures: Designing Efficient Systems",
+      "title": "Deploying LangChain Apps: FastAPI, Cloudflare, Vercel",
       "status": "pending",
       "youtube_id": null
     },
     {
       "chapter": 9,
       "part": 2,
-      "title": "MLOps: Deploying and Managing AI Models in Production",
+      "title": "Monitoring & Observability: LangSmith Deep Dive",
       "status": "pending",
       "youtube_id": null
     },
     {
       "chapter": 10,
       "part": 1,
-      "title": "Ethical Considerations in AI: Bias, Fairness, and Responsibility",
+      "title": "Security & Safety in LLM Applications",
       "status": "pending",
       "youtube_id": null
     },
     {
       "chapter": 10,
       "part": 2,
-      "title": "The Future of AI Development: Trends and Opportunities",
+      "title": "Future of LangChain & Agentic Workflows",
       "status": "pending",
       "youtube_id": null
     }

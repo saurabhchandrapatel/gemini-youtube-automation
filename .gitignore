@@ -6,6 +6,7 @@ __pycache__/
 .Python
 env/
 venv/
+env13/
 
 # Output
 output/
@@ -28,3 +29,4 @@ prompt.txt
 
 # Ignore all JSON key files
 gemini-youtube-automator-4ff94a2f3c8a.json
+./env13
